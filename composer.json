@@ -18,11 +18,11 @@
     "require": {
         "php": "^7.3|^8.1|^8.2|^8.3",
         "google/cloud-firestore": "^1",
-        "illuminate/support": "^8"
+        "illuminate/support": "*"
     },
     "require-dev": {
-        "orchestra/testbench": "^6",
-        "phpunit/phpunit": "^9"
+        "orchestra/testbench": "*",
+        "phpunit/phpunit": "*"
     },
     "autoload": {
         "psr-4": {
