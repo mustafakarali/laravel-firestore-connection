@@ -1,5 +1,5 @@
 {
-    "name": "pruvo/laravel-firestore-connection",
+    "name": "mustafakarali/laravel-firestore-connection",
     "description": "Google Firebase database connection to Laravel",
     "keywords": [
         "pruvo",
